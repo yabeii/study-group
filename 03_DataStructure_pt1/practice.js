@@ -18,3 +18,17 @@ let text = "In nova fert animus mutatas dicere formas corpora; di, coeptis (nam 
  * Tip:
  * - Before you start counting, you might want to use .toLowerCase() to make all your words the same case
  */
+
+
+/**
+ * Problem 2:
+ * 
+ * Given a string of repeating numbers ( ex. aaaabbbcccaaaa )
+ * translate it into a string that compresses it (ex. 'a4b3c3a4' )
+ * 
+ * ex.
+ * compress('aabccca') => 'a2b1c3a1'
+ * 
+ * Tip:
+ * - What data are we concerned with keeping track of as we go through the string?
+ */
