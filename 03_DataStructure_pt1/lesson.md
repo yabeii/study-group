@@ -19,4 +19,3 @@ What are some useful features about metros? Probably that they can go to other m
 * Give a programming example of each of the real-life example.
 * Why do we have data structures?
 * Why would we use a ***dictionary*** in programming? In real life?
-
