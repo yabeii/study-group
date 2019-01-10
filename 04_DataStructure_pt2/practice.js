@@ -15,7 +15,7 @@
  * Create a route time calculator that given an array of destinations in order
  * it will return you the amount of minutes that this trip will take.
  * 
- * Try to create a solution that takes O(n) time where n is the number of stations
+ * Try to create a solution that takes O(n) time where n is the number of stations on the line
  * 
  * ex.
  * calculate(["Shepard's Bush", "Oxford Circus", "Notting Hill Gate"]) => 21
